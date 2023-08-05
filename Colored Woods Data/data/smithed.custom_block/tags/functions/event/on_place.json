@@ -1,0 +1,6 @@
+{
+    "values":[
+        "#smithed.crafter:block/place",
+        "banana.colored_woods:on_place"
+    ]
+}

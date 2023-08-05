@@ -1,0 +1,38 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:furnace",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:100424,BlockEntityTag:{Items:[{id:\"minecraft:furnace\",Count:1b,Slot:0b,tag:{CustomModelData:100424,banana:{wood:{id:\"banana.id.100424\"}},smithed:{block:{id:\"banana.colored_woods:block\"}}}}]}}"
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "banana.colored_woods.100424",
+                  "color": "white",
+                  "italic": false
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                    {
+                        "translate": "banana.colored_woods.pack_name",
+                        "color": "yellow",
+                        "italic": true
+                    }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
