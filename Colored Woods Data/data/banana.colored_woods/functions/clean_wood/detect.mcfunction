@@ -1,0 +1,2 @@
+#detect if custome wood is in a cauldron of water, send to be identified and replaced
+execute as @e[nbt={item:{tag:{banana:{wood:{id:"banana.id.100000"}}}}}] at @s if block ~ ~ ~ minecraft:water_cauldron run function banana.colored_woods:clean_wood/replace

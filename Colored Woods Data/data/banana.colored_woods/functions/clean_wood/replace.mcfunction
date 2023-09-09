@@ -1,0 +1,1 @@
+#identify wood type from banana id and replace with vanila wood type
