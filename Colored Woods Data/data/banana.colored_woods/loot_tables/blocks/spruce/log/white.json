@@ -5,7 +5,7 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:furnace",
+            "name": "minecraft:barrel",
             "functions": [
               {
                 "function": "minecraft:set_nbt",
