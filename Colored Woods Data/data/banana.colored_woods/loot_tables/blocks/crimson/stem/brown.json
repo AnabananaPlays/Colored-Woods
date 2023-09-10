@@ -9,12 +9,12 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:100312,BlockEntityTag:{Items:[{id:\"minecraft:furnace\",Count:1b,Slot:0b,tag:{CustomModelData:100312,banana:{wood:{id:100312}},smithed:{block:{id:\"banana.colored_woods:block\"}}}}]}}"
+                "tag": "{CustomModelData:7950312,BlockEntityTag:{Items:[{id:\"minecraft:furnace\",Count:1b,Slot:0b,tag:{CustomModelData:7950312,banana:{wood:{id:7950312}},smithed:{block:{id:\"banana.colored_woods:block\"}}}}]}}"
               },
               {
                 "function": "minecraft:set_name",
                 "name": {
-                  "translate": "banana.colored_woods.100312",
+                  "translate": "banana.colored_woods.7950312",
                   "color": "white",
                   "italic": false
                 }
