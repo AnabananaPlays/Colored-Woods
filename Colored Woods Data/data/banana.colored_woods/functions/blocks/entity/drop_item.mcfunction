@@ -1,7 +1,7 @@
-#distroy the substitute phisical block
-kill @e[type=item, nbt={Item: {id: "minecraft:oak_planks", Count: 1b}}, limit=1, sort=nearest, tag=!smithed.entity]
+#remove loos "planks" item
+kill @e[type=item, nbt={Item:{id:"minecraft:oak_planks",count: 1}},limit=1,sort=nearest,tag=!smithed.entity]
 
-#drop CMD NBT block
+#drop CMD NBT block from Wood-ID
 #acacia
 execute if score $banana.id banana.wood.color.id matches 7950000 run loot spawn ~ ~ ~ loot banana.colored_woods:blocks/acacia/log/black
 execute if score $banana.id banana.wood.color.id matches 7950001 run loot spawn ~ ~ ~ loot banana.colored_woods:blocks/acacia/log/blue

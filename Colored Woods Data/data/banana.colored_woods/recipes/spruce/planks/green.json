@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "banana_wood_spruce_planks",
+    "pattern": [
+      "www",
+      "wdw",
+      "www"
+    ],
+    "key": {
+      "w": {
+        "item": "minecraft:spruce_planks"
+      },
+      "d": {
+        "item": "minecraft:green_dye"
+      }
+    },
+    "result": {
+      "id": "minecraft:furnace",
+      "count": 8,
+      "components": {
+        "minecraft:custom_model_data": 7950731,
+        "minecraft:custom_name": "{\"color\":\"white\",\"italic\":false,\"translate\":\"banana.colored_woods.7950731\"}",
+        "minecraft:lore": [
+            "{\"color\":\"yellow\",\"italic\":true,\"translate\":\"banana.colored_woods.pack_name\"}"
+        ],
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:furnace",
+              "count": 1,
+              "components": {
+                "minecraft:custom_model_data": 7950731,
+                "minecraft:custom_data": {"banana":{"wood":{"id":7950731}}, "smithed":{"block":{"id":"banana.colored_woods:block"}}}
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

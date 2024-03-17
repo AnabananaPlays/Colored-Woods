@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "banana_wood_mangrove_log",
+    "pattern": [
+      "www",
+      "wdw",
+      "www"
+    ],
+    "key": {
+      "w": {
+        "item": "minecraft:mangrove_log"
+      },
+      "d": {
+        "item": "minecraft:pink_dye"
+      }
+    },
+    "result": {
+      "id": "minecraft:barrel",
+      "count": 8,
+      "components": {
+        "minecraft:custom_model_data": 7950561,
+        "minecraft:custom_name": "{\"color\":\"white\",\"italic\":false,\"translate\":\"banana.colored_woods.7950561\"}",
+        "minecraft:lore": [
+            "{\"color\":\"yellow\",\"italic\":true,\"translate\":\"banana.colored_woods.pack_name\"}"
+        ],
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:barrel",
+              "count": 1,
+              "components": {
+                "minecraft:custom_model_data": 7950561,
+                "minecraft:custom_data": {"banana":{"wood":{"id":7950561}}, "smithed":{"block":{"id":"banana.colored_woods:block"}}}
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

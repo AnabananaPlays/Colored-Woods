@@ -1,38 +1,38 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:furnace",
-            "functions": [
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:7950176,BlockEntityTag:{Items:[{id:\"minecraft:furnace\",Count:1b,Slot:0b,tag:{CustomModelData:7950176,banana:{wood:{id:7950176}},smithed:{block:{id:\"banana.colored_woods:block\"}}}}]}}"
-              },
-              {
-                "function": "minecraft:set_name",
-                "name": {
-                  "translate": "banana.colored_woods.7950176",
-                  "color": "white",
-                  "italic": false
-                }
-              },
-              {
-                "function": "minecraft:set_lore",
-                "lore": [
-                    {
-                        "translate": "banana.colored_woods.pack_name",
-                        "color": "yellow",
-                        "italic": true
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:furnace",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": 7950176,
+                "minecraft:custom_name": "{\"color\":\"white\",\"italic\":false,\"translate\":\"banana.colored_woods.7950176\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"yellow\",\"italic\":true,\"translate\":\"banana.colored_woods.pack_name\"}"
+                ],
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:furnace",
+                      "count": 1,
+                      "components": {
+                        "minecraft:custom_model_data": 7950176,
+                        "minecraft:custom_data": {"banana":{"wood":{"id":7950176}}, "smithed":{"block":{"id":"banana.colored_woods:block"}}                      }
+                      }
                     }
+                  }
                 ]
               }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

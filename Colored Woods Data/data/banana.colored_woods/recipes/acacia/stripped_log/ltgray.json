@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "banana_wood_acacia_strlog",
+    "pattern": [
+      "www",
+      "wdw",
+      "www"
+    ],
+    "key": {
+      "w": {
+        "item": "minecraft:stripped_acacia_log"
+      },
+      "d": {
+        "item": "minecraft:light_gray_dye"
+      }
+    },
+    "result": {
+      "id": "minecraft:barrel",
+      "count": 8,
+      "components": {
+        "minecraft:custom_model_data": 7950040,
+        "minecraft:custom_name": "{\"color\":\"white\",\"italic\":false,\"translate\":\"banana.colored_woods.7950040\"}",
+        "minecraft:lore": [
+            "{\"color\":\"yellow\",\"italic\":true,\"translate\":\"banana.colored_woods.pack_name\"}"
+        ],
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:barrel",
+              "count": 1,
+              "components": {
+                "minecraft:custom_model_data": 7950040,
+                "minecraft:custom_data": {"banana":{"wood":{"id":7950040}}, "smithed":{"block":{"id":"banana.colored_woods:block"}}}
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

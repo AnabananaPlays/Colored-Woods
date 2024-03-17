@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "banana_wood_jungle_log",
+    "pattern": [
+      "www",
+      "wdw",
+      "www"
+    ],
+    "key": {
+      "w": {
+        "item": "minecraft:jungle_log"
+      },
+      "d": {
+        "item": "minecraft:light_blue_dye"
+      }
+    },
+    "result": {
+      "id": "minecraft:barrel",
+      "count": 8,
+      "components": {
+        "minecraft:custom_model_data": 7950477,
+        "minecraft:custom_name": "{\"color\":\"white\",\"italic\":false,\"translate\":\"banana.colored_woods.7950477\"}",
+        "minecraft:lore": [
+            "{\"color\":\"yellow\",\"italic\":true,\"translate\":\"banana.colored_woods.pack_name\"}"
+        ],
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:barrel",
+              "count": 1,
+              "components": {
+                "minecraft:custom_model_data": 7950477,
+                "minecraft:custom_data": {"banana":{"wood":{"id":7950477}}, "smithed":{"block":{"id":"banana.colored_woods:block"}}}
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

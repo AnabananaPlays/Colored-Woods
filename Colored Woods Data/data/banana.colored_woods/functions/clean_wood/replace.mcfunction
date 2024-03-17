@@ -87,4 +87,4 @@ execute if score $banana.id banana.wood.color.id matches 7950854..7950869 run lo
 
 
 #paste saved stack count
-execute at @s run data modify entity @e[limit=1,type=item,sort=nearest,tag=!smithed.entity,nbt=!{Item:{tag:{BlockEntityTag:{Items:[{tag:{smithed:{block:{id:"banana.colored_woods:block"}}}}]}}}}] Item.Count set from storage banana.wood.color.stack temp
+execute at @s run data modify entity @e[limit=1,type=item,sort=nearest,tag=!smithed.entity,nbt=!{Item:{components:{"minecraft:container":[{item:{components:{"minecraft:custom_data":{smithed:{block:{id:"banana.colored_woods:block"}}}}}}]}}}] Item.count set from storage banana.wood.color.stack temp
