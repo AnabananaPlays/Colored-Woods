@@ -1,0 +1,103 @@
+{
+    "criteria": {
+      "has_wood": {
+        "conditions": {
+          "items": [
+            {
+              "items": "#banana.colored_woods:warped"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:warped/stem/black",
+        "banana.colored_woods:warped/stem/blue",
+        "banana.colored_woods:warped/stem/brown",
+        "banana.colored_woods:warped/stem/cyan",
+        "banana.colored_woods:warped/stem/gray",
+        "banana.colored_woods:warped/stem/green",
+        "banana.colored_woods:warped/stem/lime",
+        "banana.colored_woods:warped/stem/ltblue",
+        "banana.colored_woods:warped/stem/ltgray",
+        "banana.colored_woods:warped/stem/magenta",
+        "banana.colored_woods:warped/stem/orange",
+        "banana.colored_woods:warped/stem/pink",
+        "banana.colored_woods:warped/stem/purple",
+        "banana.colored_woods:warped/stem/red",
+        "banana.colored_woods:warped/stem/white",
+        "banana.colored_woods:warped/stem/yellow",
+        "banana.colored_woods:warped/planks/black",
+        "banana.colored_woods:warped/planks/blue",
+        "banana.colored_woods:warped/planks/brown",
+        "banana.colored_woods:warped/planks/cyan",
+        "banana.colored_woods:warped/planks/gray",
+        "banana.colored_woods:warped/planks/green",
+        "banana.colored_woods:warped/planks/lime",
+        "banana.colored_woods:warped/planks/ltblue",
+        "banana.colored_woods:warped/planks/ltgray",
+        "banana.colored_woods:warped/planks/magenta",
+        "banana.colored_woods:warped/planks/orange",
+        "banana.colored_woods:warped/planks/pink",
+        "banana.colored_woods:warped/planks/purple",
+        "banana.colored_woods:warped/planks/red",
+        "banana.colored_woods:warped/planks/white",
+        "banana.colored_woods:warped/planks/yellow",
+        "banana.colored_woods:warped/stripped_stem/black",
+        "banana.colored_woods:warped/stripped_stem/blue",
+        "banana.colored_woods:warped/stripped_stem/brown",
+        "banana.colored_woods:warped/stripped_stem/cyan",
+        "banana.colored_woods:warped/stripped_stem/gray",
+        "banana.colored_woods:warped/stripped_stem/green",
+        "banana.colored_woods:warped/stripped_stem/lime",
+        "banana.colored_woods:warped/stripped_stem/ltblue",
+        "banana.colored_woods:warped/stripped_stem/ltgray",
+        "banana.colored_woods:warped/stripped_stem/magenta",
+        "banana.colored_woods:warped/stripped_stem/orange",
+        "banana.colored_woods:warped/stripped_stem/pink",
+        "banana.colored_woods:warped/stripped_stem/purple",
+        "banana.colored_woods:warped/stripped_stem/red",
+        "banana.colored_woods:warped/stripped_stem/white",
+        "banana.colored_woods:warped/stripped_stem/yellow",
+        "banana.colored_woods:warped/stripped_hyphae/black",
+        "banana.colored_woods:warped/stripped_hyphae/blue",
+        "banana.colored_woods:warped/stripped_hyphae/brown",
+        "banana.colored_woods:warped/stripped_hyphae/cyan",
+        "banana.colored_woods:warped/stripped_hyphae/gray",
+        "banana.colored_woods:warped/stripped_hyphae/green",
+        "banana.colored_woods:warped/stripped_hyphae/lime",
+        "banana.colored_woods:warped/stripped_hyphae/ltblue",
+        "banana.colored_woods:warped/stripped_hyphae/ltgray",
+        "banana.colored_woods:warped/stripped_hyphae/magenta",
+        "banana.colored_woods:warped/stripped_hyphae/orange",
+        "banana.colored_woods:warped/stripped_hyphae/pink",
+        "banana.colored_woods:warped/stripped_hyphae/purple",
+        "banana.colored_woods:warped/stripped_hyphae/red",
+        "banana.colored_woods:warped/stripped_hyphae/white",
+        "banana.colored_woods:warped/stripped_hyphae/yellow",
+        "banana.colored_woods:warped/hyphae/black",
+        "banana.colored_woods:warped/hyphae/blue",
+        "banana.colored_woods:warped/hyphae/brown",
+        "banana.colored_woods:warped/hyphae/cyan",
+        "banana.colored_woods:warped/hyphae/gray",
+        "banana.colored_woods:warped/hyphae/green",
+        "banana.colored_woods:warped/hyphae/lime",
+        "banana.colored_woods:warped/hyphae/ltblue",
+        "banana.colored_woods:warped/hyphae/ltgray",
+        "banana.colored_woods:warped/hyphae/magenta",
+        "banana.colored_woods:warped/hyphae/orange",
+        "banana.colored_woods:warped/hyphae/pink",
+        "banana.colored_woods:warped/hyphae/purple",
+        "banana.colored_woods:warped/hyphae/red",
+        "banana.colored_woods:warped/hyphae/white",
+        "banana.colored_woods:warped/hyphae/yellow"
+      ]
+    }
+  }

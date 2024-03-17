@@ -1,0 +1,103 @@
+{
+    "criteria": {
+      "has_wood": {
+        "conditions": {
+          "items": [
+            {
+              "items": "#banana.colored_woods:mangrove"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:mangrove/log/black",
+        "banana.colored_woods:mangrove/log/blue",
+        "banana.colored_woods:mangrove/log/brown",
+        "banana.colored_woods:mangrove/log/cyan",
+        "banana.colored_woods:mangrove/log/gray",
+        "banana.colored_woods:mangrove/log/green",
+        "banana.colored_woods:mangrove/log/lime",
+        "banana.colored_woods:mangrove/log/ltblue",
+        "banana.colored_woods:mangrove/log/ltgray",
+        "banana.colored_woods:mangrove/log/magenta",
+        "banana.colored_woods:mangrove/log/orange",
+        "banana.colored_woods:mangrove/log/pink",
+        "banana.colored_woods:mangrove/log/purple",
+        "banana.colored_woods:mangrove/log/red",
+        "banana.colored_woods:mangrove/log/white",
+        "banana.colored_woods:mangrove/log/yellow",
+        "banana.colored_woods:mangrove/planks/black",
+        "banana.colored_woods:mangrove/planks/blue",
+        "banana.colored_woods:mangrove/planks/brown",
+        "banana.colored_woods:mangrove/planks/cyan",
+        "banana.colored_woods:mangrove/planks/gray",
+        "banana.colored_woods:mangrove/planks/green",
+        "banana.colored_woods:mangrove/planks/lime",
+        "banana.colored_woods:mangrove/planks/ltblue",
+        "banana.colored_woods:mangrove/planks/ltgray",
+        "banana.colored_woods:mangrove/planks/magenta",
+        "banana.colored_woods:mangrove/planks/orange",
+        "banana.colored_woods:mangrove/planks/pink",
+        "banana.colored_woods:mangrove/planks/purple",
+        "banana.colored_woods:mangrove/planks/red",
+        "banana.colored_woods:mangrove/planks/white",
+        "banana.colored_woods:mangrove/planks/yellow",
+        "banana.colored_woods:mangrove/stripped_log/black",
+        "banana.colored_woods:mangrove/stripped_log/blue",
+        "banana.colored_woods:mangrove/stripped_log/brown",
+        "banana.colored_woods:mangrove/stripped_log/cyan",
+        "banana.colored_woods:mangrove/stripped_log/gray",
+        "banana.colored_woods:mangrove/stripped_log/green",
+        "banana.colored_woods:mangrove/stripped_log/lime",
+        "banana.colored_woods:mangrove/stripped_log/ltblue",
+        "banana.colored_woods:mangrove/stripped_log/ltgray",
+        "banana.colored_woods:mangrove/stripped_log/magenta",
+        "banana.colored_woods:mangrove/stripped_log/orange",
+        "banana.colored_woods:mangrove/stripped_log/pink",
+        "banana.colored_woods:mangrove/stripped_log/purple",
+        "banana.colored_woods:mangrove/stripped_log/red",
+        "banana.colored_woods:mangrove/stripped_log/white",
+        "banana.colored_woods:mangrove/stripped_log/yellow",
+        "banana.colored_woods:mangrove/stripped_wood/black",
+        "banana.colored_woods:mangrove/stripped_wood/blue",
+        "banana.colored_woods:mangrove/stripped_wood/brown",
+        "banana.colored_woods:mangrove/stripped_wood/cyan",
+        "banana.colored_woods:mangrove/stripped_wood/gray",
+        "banana.colored_woods:mangrove/stripped_wood/green",
+        "banana.colored_woods:mangrove/stripped_wood/lime",
+        "banana.colored_woods:mangrove/stripped_wood/ltblue",
+        "banana.colored_woods:mangrove/stripped_wood/ltgray",
+        "banana.colored_woods:mangrove/stripped_wood/magenta",
+        "banana.colored_woods:mangrove/stripped_wood/orange",
+        "banana.colored_woods:mangrove/stripped_wood/pink",
+        "banana.colored_woods:mangrove/stripped_wood/purple",
+        "banana.colored_woods:mangrove/stripped_wood/red",
+        "banana.colored_woods:mangrove/stripped_wood/white",
+        "banana.colored_woods:mangrove/stripped_wood/yellow",
+        "banana.colored_woods:mangrove/wood/black",
+        "banana.colored_woods:mangrove/wood/blue",
+        "banana.colored_woods:mangrove/wood/brown",
+        "banana.colored_woods:mangrove/wood/cyan",
+        "banana.colored_woods:mangrove/wood/gray",
+        "banana.colored_woods:mangrove/wood/green",
+        "banana.colored_woods:mangrove/wood/lime",
+        "banana.colored_woods:mangrove/wood/ltblue",
+        "banana.colored_woods:mangrove/wood/ltgray",
+        "banana.colored_woods:mangrove/wood/magenta",
+        "banana.colored_woods:mangrove/wood/orange",
+        "banana.colored_woods:mangrove/wood/pink",
+        "banana.colored_woods:mangrove/wood/purple",
+        "banana.colored_woods:mangrove/wood/red",
+        "banana.colored_woods:mangrove/wood/white",
+        "banana.colored_woods:mangrove/wood/yellow"
+      ]
+    }
+  }

@@ -1,0 +1,103 @@
+{
+    "criteria": {
+      "has_wood": {
+        "conditions": {
+          "items": [
+            {
+              "items": "#banana.colored_woods:spruce"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:spruce/log/black",
+        "banana.colored_woods:spruce/log/blue",
+        "banana.colored_woods:spruce/log/brown",
+        "banana.colored_woods:spruce/log/cyan",
+        "banana.colored_woods:spruce/log/gray",
+        "banana.colored_woods:spruce/log/green",
+        "banana.colored_woods:spruce/log/lime",
+        "banana.colored_woods:spruce/log/ltblue",
+        "banana.colored_woods:spruce/log/ltgray",
+        "banana.colored_woods:spruce/log/magenta",
+        "banana.colored_woods:spruce/log/orange",
+        "banana.colored_woods:spruce/log/pink",
+        "banana.colored_woods:spruce/log/purple",
+        "banana.colored_woods:spruce/log/red",
+        "banana.colored_woods:spruce/log/white",
+        "banana.colored_woods:spruce/log/yellow",
+        "banana.colored_woods:spruce/planks/black",
+        "banana.colored_woods:spruce/planks/blue",
+        "banana.colored_woods:spruce/planks/brown",
+        "banana.colored_woods:spruce/planks/cyan",
+        "banana.colored_woods:spruce/planks/gray",
+        "banana.colored_woods:spruce/planks/green",
+        "banana.colored_woods:spruce/planks/lime",
+        "banana.colored_woods:spruce/planks/ltblue",
+        "banana.colored_woods:spruce/planks/ltgray",
+        "banana.colored_woods:spruce/planks/magenta",
+        "banana.colored_woods:spruce/planks/orange",
+        "banana.colored_woods:spruce/planks/pink",
+        "banana.colored_woods:spruce/planks/purple",
+        "banana.colored_woods:spruce/planks/red",
+        "banana.colored_woods:spruce/planks/white",
+        "banana.colored_woods:spruce/planks/yellow",
+        "banana.colored_woods:spruce/stripped_log/black",
+        "banana.colored_woods:spruce/stripped_log/blue",
+        "banana.colored_woods:spruce/stripped_log/brown",
+        "banana.colored_woods:spruce/stripped_log/cyan",
+        "banana.colored_woods:spruce/stripped_log/gray",
+        "banana.colored_woods:spruce/stripped_log/green",
+        "banana.colored_woods:spruce/stripped_log/lime",
+        "banana.colored_woods:spruce/stripped_log/ltblue",
+        "banana.colored_woods:spruce/stripped_log/ltgray",
+        "banana.colored_woods:spruce/stripped_log/magenta",
+        "banana.colored_woods:spruce/stripped_log/orange",
+        "banana.colored_woods:spruce/stripped_log/pink",
+        "banana.colored_woods:spruce/stripped_log/purple",
+        "banana.colored_woods:spruce/stripped_log/red",
+        "banana.colored_woods:spruce/stripped_log/white",
+        "banana.colored_woods:spruce/stripped_log/yellow",
+        "banana.colored_woods:spruce/stripped_wood/black",
+        "banana.colored_woods:spruce/stripped_wood/blue",
+        "banana.colored_woods:spruce/stripped_wood/brown",
+        "banana.colored_woods:spruce/stripped_wood/cyan",
+        "banana.colored_woods:spruce/stripped_wood/gray",
+        "banana.colored_woods:spruce/stripped_wood/green",
+        "banana.colored_woods:spruce/stripped_wood/lime",
+        "banana.colored_woods:spruce/stripped_wood/ltblue",
+        "banana.colored_woods:spruce/stripped_wood/ltgray",
+        "banana.colored_woods:spruce/stripped_wood/magenta",
+        "banana.colored_woods:spruce/stripped_wood/orange",
+        "banana.colored_woods:spruce/stripped_wood/pink",
+        "banana.colored_woods:spruce/stripped_wood/purple",
+        "banana.colored_woods:spruce/stripped_wood/red",
+        "banana.colored_woods:spruce/stripped_wood/white",
+        "banana.colored_woods:spruce/stripped_wood/yellow",
+        "banana.colored_woods:spruce/wood/black",
+        "banana.colored_woods:spruce/wood/blue",
+        "banana.colored_woods:spruce/wood/brown",
+        "banana.colored_woods:spruce/wood/cyan",
+        "banana.colored_woods:spruce/wood/gray",
+        "banana.colored_woods:spruce/wood/green",
+        "banana.colored_woods:spruce/wood/lime",
+        "banana.colored_woods:spruce/wood/ltblue",
+        "banana.colored_woods:spruce/wood/ltgray",
+        "banana.colored_woods:spruce/wood/magenta",
+        "banana.colored_woods:spruce/wood/orange",
+        "banana.colored_woods:spruce/wood/pink",
+        "banana.colored_woods:spruce/wood/purple",
+        "banana.colored_woods:spruce/wood/red",
+        "banana.colored_woods:spruce/wood/white",
+        "banana.colored_woods:spruce/wood/yellow"
+      ]
+    }
+  }

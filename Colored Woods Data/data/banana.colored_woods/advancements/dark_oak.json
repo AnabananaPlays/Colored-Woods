@@ -1,0 +1,103 @@
+{
+    "criteria": {
+      "has_wood": {
+        "conditions": {
+          "items": [
+            {
+              "items": "#banana.colored_woods:dark_oak"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:dark_oak/log/black",
+        "banana.colored_woods:dark_oak/log/blue",
+        "banana.colored_woods:dark_oak/log/brown",
+        "banana.colored_woods:dark_oak/log/cyan",
+        "banana.colored_woods:dark_oak/log/gray",
+        "banana.colored_woods:dark_oak/log/green",
+        "banana.colored_woods:dark_oak/log/lime",
+        "banana.colored_woods:dark_oak/log/ltblue",
+        "banana.colored_woods:dark_oak/log/ltgray",
+        "banana.colored_woods:dark_oak/log/magenta",
+        "banana.colored_woods:dark_oak/log/orange",
+        "banana.colored_woods:dark_oak/log/pink",
+        "banana.colored_woods:dark_oak/log/purple",
+        "banana.colored_woods:dark_oak/log/red",
+        "banana.colored_woods:dark_oak/log/white",
+        "banana.colored_woods:dark_oak/log/yellow",
+        "banana.colored_woods:dark_oak/planks/black",
+        "banana.colored_woods:dark_oak/planks/blue",
+        "banana.colored_woods:dark_oak/planks/brown",
+        "banana.colored_woods:dark_oak/planks/cyan",
+        "banana.colored_woods:dark_oak/planks/gray",
+        "banana.colored_woods:dark_oak/planks/green",
+        "banana.colored_woods:dark_oak/planks/lime",
+        "banana.colored_woods:dark_oak/planks/ltblue",
+        "banana.colored_woods:dark_oak/planks/ltgray",
+        "banana.colored_woods:dark_oak/planks/magenta",
+        "banana.colored_woods:dark_oak/planks/orange",
+        "banana.colored_woods:dark_oak/planks/pink",
+        "banana.colored_woods:dark_oak/planks/purple",
+        "banana.colored_woods:dark_oak/planks/red",
+        "banana.colored_woods:dark_oak/planks/white",
+        "banana.colored_woods:dark_oak/planks/yellow",
+        "banana.colored_woods:dark_oak/stripped_log/black",
+        "banana.colored_woods:dark_oak/stripped_log/blue",
+        "banana.colored_woods:dark_oak/stripped_log/brown",
+        "banana.colored_woods:dark_oak/stripped_log/cyan",
+        "banana.colored_woods:dark_oak/stripped_log/gray",
+        "banana.colored_woods:dark_oak/stripped_log/green",
+        "banana.colored_woods:dark_oak/stripped_log/lime",
+        "banana.colored_woods:dark_oak/stripped_log/ltblue",
+        "banana.colored_woods:dark_oak/stripped_log/ltgray",
+        "banana.colored_woods:dark_oak/stripped_log/magenta",
+        "banana.colored_woods:dark_oak/stripped_log/orange",
+        "banana.colored_woods:dark_oak/stripped_log/pink",
+        "banana.colored_woods:dark_oak/stripped_log/purple",
+        "banana.colored_woods:dark_oak/stripped_log/red",
+        "banana.colored_woods:dark_oak/stripped_log/white",
+        "banana.colored_woods:dark_oak/stripped_log/yellow",
+        "banana.colored_woods:dark_oak/stripped_wood/black",
+        "banana.colored_woods:dark_oak/stripped_wood/blue",
+        "banana.colored_woods:dark_oak/stripped_wood/brown",
+        "banana.colored_woods:dark_oak/stripped_wood/cyan",
+        "banana.colored_woods:dark_oak/stripped_wood/gray",
+        "banana.colored_woods:dark_oak/stripped_wood/green",
+        "banana.colored_woods:dark_oak/stripped_wood/lime",
+        "banana.colored_woods:dark_oak/stripped_wood/ltblue",
+        "banana.colored_woods:dark_oak/stripped_wood/ltgray",
+        "banana.colored_woods:dark_oak/stripped_wood/magenta",
+        "banana.colored_woods:dark_oak/stripped_wood/orange",
+        "banana.colored_woods:dark_oak/stripped_wood/pink",
+        "banana.colored_woods:dark_oak/stripped_wood/purple",
+        "banana.colored_woods:dark_oak/stripped_wood/red",
+        "banana.colored_woods:dark_oak/stripped_wood/white",
+        "banana.colored_woods:dark_oak/stripped_wood/yellow",
+        "banana.colored_woods:dark_oak/wood/black",
+        "banana.colored_woods:dark_oak/wood/blue",
+        "banana.colored_woods:dark_oak/wood/brown",
+        "banana.colored_woods:dark_oak/wood/cyan",
+        "banana.colored_woods:dark_oak/wood/gray",
+        "banana.colored_woods:dark_oak/wood/green",
+        "banana.colored_woods:dark_oak/wood/lime",
+        "banana.colored_woods:dark_oak/wood/ltblue",
+        "banana.colored_woods:dark_oak/wood/ltgray",
+        "banana.colored_woods:dark_oak/wood/magenta",
+        "banana.colored_woods:dark_oak/wood/orange",
+        "banana.colored_woods:dark_oak/wood/pink",
+        "banana.colored_woods:dark_oak/wood/purple",
+        "banana.colored_woods:dark_oak/wood/red",
+        "banana.colored_woods:dark_oak/wood/white",
+        "banana.colored_woods:dark_oak/wood/yellow"
+      ]
+    }
+  }

@@ -1,0 +1,103 @@
+{
+  "criteria": {
+    "has_wood": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#banana.colored_woods:acacia"
+           }
+         ]
+      },
+       "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:acacia/log/black",
+        "banana.colored_woods:acacia/log/blue",
+        "banana.colored_woods:acacia/log/brown",
+        "banana.colored_woods:acacia/log/cyan",
+        "banana.colored_woods:acacia/log/gray",
+        "banana.colored_woods:acacia/log/green",
+        "banana.colored_woods:acacia/log/lime",
+        "banana.colored_woods:acacia/log/ltblue",
+        "banana.colored_woods:acacia/log/ltgray",
+        "banana.colored_woods:acacia/log/magenta",
+        "banana.colored_woods:acacia/log/orange",
+        "banana.colored_woods:acacia/log/pink",
+        "banana.colored_woods:acacia/log/purple",
+        "banana.colored_woods:acacia/log/red",
+        "banana.colored_woods:acacia/log/white",
+        "banana.colored_woods:acacia/log/yellow",
+        "banana.colored_woods:acacia/planks/black",
+        "banana.colored_woods:acacia/planks/blue",
+        "banana.colored_woods:acacia/planks/brown",
+        "banana.colored_woods:acacia/planks/cyan",
+        "banana.colored_woods:acacia/planks/gray",
+        "banana.colored_woods:acacia/planks/green",
+        "banana.colored_woods:acacia/planks/lime",
+        "banana.colored_woods:acacia/planks/ltblue",
+        "banana.colored_woods:acacia/planks/ltgray",
+        "banana.colored_woods:acacia/planks/magenta",
+        "banana.colored_woods:acacia/planks/orange",
+        "banana.colored_woods:acacia/planks/pink",
+        "banana.colored_woods:acacia/planks/purple",
+        "banana.colored_woods:acacia/planks/red",
+        "banana.colored_woods:acacia/planks/white",
+        "banana.colored_woods:acacia/planks/yellow",
+        "banana.colored_woods:acacia/stripped_log/black",
+        "banana.colored_woods:acacia/stripped_log/blue",
+        "banana.colored_woods:acacia/stripped_log/brown",
+        "banana.colored_woods:acacia/stripped_log/cyan",
+        "banana.colored_woods:acacia/stripped_log/gray",
+        "banana.colored_woods:acacia/stripped_log/green",
+        "banana.colored_woods:acacia/stripped_log/lime",
+        "banana.colored_woods:acacia/stripped_log/ltblue",
+        "banana.colored_woods:acacia/stripped_log/ltgray",
+        "banana.colored_woods:acacia/stripped_log/magenta",
+        "banana.colored_woods:acacia/stripped_log/orange",
+        "banana.colored_woods:acacia/stripped_log/pink",
+        "banana.colored_woods:acacia/stripped_log/purple",
+        "banana.colored_woods:acacia/stripped_log/red",
+        "banana.colored_woods:acacia/stripped_log/white",
+        "banana.colored_woods:acacia/stripped_log/yellow",
+        "banana.colored_woods:acacia/stripped_wood/black",
+        "banana.colored_woods:acacia/stripped_wood/blue",
+        "banana.colored_woods:acacia/stripped_wood/brown",
+        "banana.colored_woods:acacia/stripped_wood/cyan",
+        "banana.colored_woods:acacia/stripped_wood/gray",
+        "banana.colored_woods:acacia/stripped_wood/green",
+        "banana.colored_woods:acacia/stripped_wood/lime",
+        "banana.colored_woods:acacia/stripped_wood/ltblue",
+        "banana.colored_woods:acacia/stripped_wood/ltgray",
+        "banana.colored_woods:acacia/stripped_wood/magenta",
+        "banana.colored_woods:acacia/stripped_wood/orange",
+        "banana.colored_woods:acacia/stripped_wood/pink",
+        "banana.colored_woods:acacia/stripped_wood/purple",
+        "banana.colored_woods:acacia/stripped_wood/red",
+        "banana.colored_woods:acacia/stripped_wood/white",
+        "banana.colored_woods:acacia/stripped_wood/yellow",
+        "banana.colored_woods:acacia/wood/black",
+        "banana.colored_woods:acacia/wood/blue",
+        "banana.colored_woods:acacia/wood/brown",
+        "banana.colored_woods:acacia/wood/cyan",
+        "banana.colored_woods:acacia/wood/gray",
+        "banana.colored_woods:acacia/wood/green",
+        "banana.colored_woods:acacia/wood/lime",
+        "banana.colored_woods:acacia/wood/ltblue",
+        "banana.colored_woods:acacia/wood/ltgray",
+        "banana.colored_woods:acacia/wood/magenta",
+        "banana.colored_woods:acacia/wood/orange",
+        "banana.colored_woods:acacia/wood/pink",
+        "banana.colored_woods:acacia/wood/purple",
+        "banana.colored_woods:acacia/wood/red",
+        "banana.colored_woods:acacia/wood/white",
+        "banana.colored_woods:acacia/wood/yellow"
+      ]
+    }
+}

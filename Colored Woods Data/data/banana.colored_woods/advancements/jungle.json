@@ -1,0 +1,103 @@
+{
+    "criteria": {
+      "has_wood": {
+        "conditions": {
+          "items": [
+            {
+              "items": "#banana.colored_woods:jungle"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:jungle/log/black",
+        "banana.colored_woods:jungle/log/blue",
+        "banana.colored_woods:jungle/log/brown",
+        "banana.colored_woods:jungle/log/cyan",
+        "banana.colored_woods:jungle/log/gray",
+        "banana.colored_woods:jungle/log/green",
+        "banana.colored_woods:jungle/log/lime",
+        "banana.colored_woods:jungle/log/ltblue",
+        "banana.colored_woods:jungle/log/ltgray",
+        "banana.colored_woods:jungle/log/magenta",
+        "banana.colored_woods:jungle/log/orange",
+        "banana.colored_woods:jungle/log/pink",
+        "banana.colored_woods:jungle/log/purple",
+        "banana.colored_woods:jungle/log/red",
+        "banana.colored_woods:jungle/log/white",
+        "banana.colored_woods:jungle/log/yellow",
+        "banana.colored_woods:jungle/planks/black",
+        "banana.colored_woods:jungle/planks/blue",
+        "banana.colored_woods:jungle/planks/brown",
+        "banana.colored_woods:jungle/planks/cyan",
+        "banana.colored_woods:jungle/planks/gray",
+        "banana.colored_woods:jungle/planks/green",
+        "banana.colored_woods:jungle/planks/lime",
+        "banana.colored_woods:jungle/planks/ltblue",
+        "banana.colored_woods:jungle/planks/ltgray",
+        "banana.colored_woods:jungle/planks/magenta",
+        "banana.colored_woods:jungle/planks/orange",
+        "banana.colored_woods:jungle/planks/pink",
+        "banana.colored_woods:jungle/planks/purple",
+        "banana.colored_woods:jungle/planks/red",
+        "banana.colored_woods:jungle/planks/white",
+        "banana.colored_woods:jungle/planks/yellow",
+        "banana.colored_woods:jungle/stripped_log/black",
+        "banana.colored_woods:jungle/stripped_log/blue",
+        "banana.colored_woods:jungle/stripped_log/brown",
+        "banana.colored_woods:jungle/stripped_log/cyan",
+        "banana.colored_woods:jungle/stripped_log/gray",
+        "banana.colored_woods:jungle/stripped_log/green",
+        "banana.colored_woods:jungle/stripped_log/lime",
+        "banana.colored_woods:jungle/stripped_log/ltblue",
+        "banana.colored_woods:jungle/stripped_log/ltgray",
+        "banana.colored_woods:jungle/stripped_log/magenta",
+        "banana.colored_woods:jungle/stripped_log/orange",
+        "banana.colored_woods:jungle/stripped_log/pink",
+        "banana.colored_woods:jungle/stripped_log/purple",
+        "banana.colored_woods:jungle/stripped_log/red",
+        "banana.colored_woods:jungle/stripped_log/white",
+        "banana.colored_woods:jungle/stripped_log/yellow",
+        "banana.colored_woods:jungle/stripped_wood/black",
+        "banana.colored_woods:jungle/stripped_wood/blue",
+        "banana.colored_woods:jungle/stripped_wood/brown",
+        "banana.colored_woods:jungle/stripped_wood/cyan",
+        "banana.colored_woods:jungle/stripped_wood/gray",
+        "banana.colored_woods:jungle/stripped_wood/green",
+        "banana.colored_woods:jungle/stripped_wood/lime",
+        "banana.colored_woods:jungle/stripped_wood/ltblue",
+        "banana.colored_woods:jungle/stripped_wood/ltgray",
+        "banana.colored_woods:jungle/stripped_wood/magenta",
+        "banana.colored_woods:jungle/stripped_wood/orange",
+        "banana.colored_woods:jungle/stripped_wood/pink",
+        "banana.colored_woods:jungle/stripped_wood/purple",
+        "banana.colored_woods:jungle/stripped_wood/red",
+        "banana.colored_woods:jungle/stripped_wood/white",
+        "banana.colored_woods:jungle/stripped_wood/yellow",
+        "banana.colored_woods:jungle/wood/black",
+        "banana.colored_woods:jungle/wood/blue",
+        "banana.colored_woods:jungle/wood/brown",
+        "banana.colored_woods:jungle/wood/cyan",
+        "banana.colored_woods:jungle/wood/gray",
+        "banana.colored_woods:jungle/wood/green",
+        "banana.colored_woods:jungle/wood/lime",
+        "banana.colored_woods:jungle/wood/ltblue",
+        "banana.colored_woods:jungle/wood/ltgray",
+        "banana.colored_woods:jungle/wood/magenta",
+        "banana.colored_woods:jungle/wood/orange",
+        "banana.colored_woods:jungle/wood/pink",
+        "banana.colored_woods:jungle/wood/purple",
+        "banana.colored_woods:jungle/wood/red",
+        "banana.colored_woods:jungle/wood/white",
+        "banana.colored_woods:jungle/wood/yellow"
+      ]
+    }
+  }

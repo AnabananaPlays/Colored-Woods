@@ -1,0 +1,87 @@
+{
+    "criteria": {
+      "has_wood": {
+        "conditions": {
+          "items": [
+            {
+              "items": "#banana.colored_woods:bamboo"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "requirements": [
+      [
+        "has_wood"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "banana.colored_woods:bamboo/block/black",
+        "banana.colored_woods:bamboo/block/blue",
+        "banana.colored_woods:bamboo/block/brown",
+        "banana.colored_woods:bamboo/block/cyan",
+        "banana.colored_woods:bamboo/block/gray",
+        "banana.colored_woods:bamboo/block/green",
+        "banana.colored_woods:bamboo/block/lime",
+        "banana.colored_woods:bamboo/block/ltblue",
+        "banana.colored_woods:bamboo/block/ltgray",
+        "banana.colored_woods:bamboo/block/magenta",
+        "banana.colored_woods:bamboo/block/orange",
+        "banana.colored_woods:bamboo/block/pink",
+        "banana.colored_woods:bamboo/block/purple",
+        "banana.colored_woods:bamboo/block/red",
+        "banana.colored_woods:bamboo/block/white",
+        "banana.colored_woods:bamboo/block/yellow",
+        "banana.colored_woods:bamboo/planks/black",
+        "banana.colored_woods:bamboo/planks/blue",
+        "banana.colored_woods:bamboo/planks/brown",
+        "banana.colored_woods:bamboo/planks/cyan",
+        "banana.colored_woods:bamboo/planks/gray",
+        "banana.colored_woods:bamboo/planks/green",
+        "banana.colored_woods:bamboo/planks/lime",
+        "banana.colored_woods:bamboo/planks/ltblue",
+        "banana.colored_woods:bamboo/planks/ltgray",
+        "banana.colored_woods:bamboo/planks/magenta",
+        "banana.colored_woods:bamboo/planks/orange",
+        "banana.colored_woods:bamboo/planks/pink",
+        "banana.colored_woods:bamboo/planks/purple",
+        "banana.colored_woods:bamboo/planks/red",
+        "banana.colored_woods:bamboo/planks/white",
+        "banana.colored_woods:bamboo/planks/yellow",
+        "banana.colored_woods:bamboo/stripped_block/black",
+        "banana.colored_woods:bamboo/stripped_block/blue",
+        "banana.colored_woods:bamboo/stripped_block/brown",
+        "banana.colored_woods:bamboo/stripped_block/cyan",
+        "banana.colored_woods:bamboo/stripped_block/gray",
+        "banana.colored_woods:bamboo/stripped_block/green",
+        "banana.colored_woods:bamboo/stripped_block/lime",
+        "banana.colored_woods:bamboo/stripped_block/ltblue",
+        "banana.colored_woods:bamboo/stripped_block/ltgray",
+        "banana.colored_woods:bamboo/stripped_block/magenta",
+        "banana.colored_woods:bamboo/stripped_block/orange",
+        "banana.colored_woods:bamboo/stripped_block/pink",
+        "banana.colored_woods:bamboo/stripped_block/purple",
+        "banana.colored_woods:bamboo/stripped_block/red",
+        "banana.colored_woods:bamboo/stripped_block/white",
+        "banana.colored_woods:bamboo/stripped_block/yellow",
+        "banana.colored_woods:bamboo/mosaic/black",
+        "banana.colored_woods:bamboo/mosaic/blue",
+        "banana.colored_woods:bamboo/mosaic/brown",
+        "banana.colored_woods:bamboo/mosaic/cyan",
+        "banana.colored_woods:bamboo/mosaic/gray",
+        "banana.colored_woods:bamboo/mosaic/green",
+        "banana.colored_woods:bamboo/mosaic/lime",
+        "banana.colored_woods:bamboo/mosaic/ltblue",
+        "banana.colored_woods:bamboo/mosaic/ltgray",
+        "banana.colored_woods:bamboo/mosaic/magenta",
+        "banana.colored_woods:bamboo/mosaic/orange",
+        "banana.colored_woods:bamboo/mosaic/pink",
+        "banana.colored_woods:bamboo/mosaic/purple",
+        "banana.colored_woods:bamboo/mosaic/red",
+        "banana.colored_woods:bamboo/mosaic/white",
+        "banana.colored_woods:bamboo/mosaic/yellow"
+      ]
+    }
+  }
