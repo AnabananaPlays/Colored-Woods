@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/template_shulker_box",
+    "parent": "minecraft:block/barrel",
     "overrides": [
 		{"predicate":{"custom_model_data":7950000},"model":"banana.colored_woods:block/acacia/acacia_log_black"},
 		{"predicate":{"custom_model_data":7950001},"model":"banana.colored_woods:block/acacia/acacia_log_blue"},

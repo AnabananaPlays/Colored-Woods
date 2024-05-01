@@ -16,20 +16,19 @@
       }
     },
     "result": {
-      "id": "minecraft:shulker_box",
+      "id": "minecraft:barrel",
       "count": 8,
       "components": {
         "minecraft:custom_model_data": 7950270,
         "minecraft:custom_name": "{\"color\":\"white\",\"italic\":false,\"translate\":\"banana.colored_woods.7950270\"}",
-        "minecraft:max_stack_size": 64,
-                "minecraft:lore": [
+        "minecraft:lore": [
             "{\"color\":\"yellow\",\"italic\":true,\"translate\":\"banana.colored_woods.pack_name\"}"
         ],
         "minecraft:container": [
           {
             "slot": 0,
             "item": {
-              "id": "minecraft:shulker_box",
+              "id": "minecraft:barrel",
               "count": 1,
               "components": {
                 "minecraft:custom_model_data": 7950270,

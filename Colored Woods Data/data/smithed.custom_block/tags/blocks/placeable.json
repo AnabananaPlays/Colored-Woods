@@ -7,7 +7,6 @@
         "minecraft:dispenser",
         "minecraft:dropper",
         "minecraft:campfire",
-        "minecraft:soul_campfire",
-        "minecraft:shulker_box"
+        "minecraft:soul_campfire"
     ]
 }
